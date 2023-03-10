@@ -9,3 +9,4 @@ venv/
 ENV/
 
 .idea
+service_key/
