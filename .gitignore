@@ -1,0 +1,11 @@
+# Distribution / packaging
+.Python
+__pypackages__/
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+.idea

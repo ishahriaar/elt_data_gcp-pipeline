@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "myeltlearn",
+  "private_key_id": "f4625859bf9eef912b38b310f3504bdb4c86f553",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChRXbnOviXlsoS\nJg2r2YaxQLoFSnR+e+TM712JhC0osu8uOXkzUl3Sh6TAQYQfoEJuPbNrTSzB63kN\n+Oue/1rRZA7DEJNLPmG/6lutbW+4DmWojMCDtndTMbodWs/yBBNEdg66RoRzBGKj\nlN8hz/e0MgGjWyJjGkrV9TP/3C8XB6nh/Y4Bilm8yIZpssowTVbmgv2strs7fUpa\n0BIyqUmkiTaO+tQyFIeNj9IQlvJ2ki0nPosMggWc+rvR/YEs2IKlN7p4PnRMSAEx\nmc3G7Qig1SdTl2V0+ybX1rBMZ8mdzwkrZpNY2Vwe59UCyERBaAEEmTAtozBblghz\naSO+BHePAgMBAAECggEAEPLTca6lZI0A1JJyOl7EhIlYY2j1QDu2CoGXc3XUJyRS\n9aktnyKnYJJH0rqv74DwqlRKsFquevzLvper74xHl5zr3j02NaCrNjejheDr7kx5\nC5MrQkxhUvl1ZVNfakBaZAYCOzpg/hN2aFmjb5LDJglhWbEgtoiTV9QKsHeL7WAC\ndqsRiIc7wwouKpUYGG4e6go/GdZQI4/No4tq4NX+UEvrT6ABb5zlkP+De9XTadZ8\nq62ezpKmGXo8YSFva1fOdnvmtRhDVqk/2eiWusHb2ldB2M0h4QGRZl+QOxkjtE2O\nAG2fuuLbwMCraJcWAP9QNt2+PFI+CRa/JZaW9DtunQKBgQDcJCnssAx5SzhJRRCZ\nJVj16KTPuTvPHsjTvaK1Nfcjavu5/Nj82cR6wVRHbzEsRajdbYpGf1RxyNQOBXrm\nB3l0CHcYzxmo7CJHZkH2dnQk3g7D6lW/5DMVIDTPA0J38g1qoeujqZGEw3tvd5r+\nMKBS551K57XyxQKDkEMKB88uYwKBgQC7inCMnJmTRWP2kYKEZJQ/YpbdrpdNM58j\nu7WSNBBGEVPQs2Lwpwrah+nTnfKr+yHAfUaHCgxXl42yj7o+8D+s3b9EiNOaCW3o\nNlXwuZUPPatg02SF37+iqL9jXtatXlL5nqlo8o2HDMIx3pCyWoxZ04o/jcGXVqdu\ny+2aMTjz5QKBgQC2Fw+6oNBgkBCJwp/9HUBdf8a7r4tCQkN5qXVpkK7Q1BBOAlB1\nradwpnOQ9u9koGYSaiYjM/VkfOqygmPq26nhiZMBqWSfLlsYVgQf2lEtoaPy9+Vf\n6WE7iz1DMn4LeuMQHckswfkFKTDzvaotsYkbqkuYBtugaMcwjeZ16Im94wKBgE7Q\ncVhGf6wKn2YB5M3qzvqMXkavltpU9W449qeIxcYMhiLRIKVuLfuE3tmWKWPpWFfi\nzf72VBWDlYMTL/w/TyNA1Z7hubukdtH988QE2gXbrug0LqysSYb8T+Jc+u9FEq3g\n5eU6+gtlaz81/61UrGMbqZ/n3RHS0u6XOTVxtjOZAoGASX4rLi1NLYvZDTk1LPAZ\n8Lcilo9PrJosGiCrYxjNAqi8elNKJ9WeFice1NpuHZm5qPv/BK8oeoXu9Cct7+En\n+121gHlkLnJlN3LNg0Z04vKi29GU+oFJDB4KeL9Hz1clGYZsCotHw28nqzS7lcqn\nmzzA5MwFpvwHRlTiO+UFsWc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "turing-elt@myeltlearn.iam.gserviceaccount.com",
+  "client_id": "107331092569075946987",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/turing-elt%40myeltlearn.iam.gserviceaccount.com"
+}
