@@ -23,7 +23,7 @@ def load_file(resource, client):
 
 client =  bigquery.Client()
 load_file("carts", client)
-load_file("users", client)
+# load_file("users", client)
 
 query= """
 SELECT 
